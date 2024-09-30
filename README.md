@@ -164,6 +164,7 @@ int main() {
 }
 ~~~
 ## OUTPUT:
+![WhatsApp Image 2024-09-30 at 16 47 54_f6452c4d](https://github.com/user-attachments/assets/74a6a992-a80a-4585-997d-2c5b20a150a6)
 
 ## RESULT:
   Thus the SHA-1 hashing technique had been implemented successfully.
