@@ -141,7 +141,7 @@ void sha1_final(SHA1_CTX *ctx, uint8_t hash[]) {
 
 int main() {
     // initializing string
-    char *str = "SINDHUJA";
+    char *str = "RAJA LAKSHMI";
     printf("Text: %s\n", str);
     
     // Create SHA1 context and hash buffer
